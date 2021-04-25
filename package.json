@@ -1,0 +1,11 @@
+{
+  "name": "passport-learning",
+  "version": "1.0.0",
+  "description": "Sample project to learn passport",
+  "main": "index.js",
+  "author": "Cameron Mullen (cameron.mullen@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "passport": "^0.4.1"
+  }
+}
